@@ -1,2 +1,3 @@
-# lorem_ipsum_project
+# Lorem Ipsum Project
+
 A lorem ipsum project
